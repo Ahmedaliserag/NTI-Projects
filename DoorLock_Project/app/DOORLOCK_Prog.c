@@ -181,10 +181,6 @@ u8 passwordArray[5]={0,0,0,0,0}; // default pass for first intialization on eppr
 	}
 	u8 DOORLOCKER_SetPass (u8*passArr)
 	{
-		/*for kit */
-		CLR_BIT(DDRD,5);
-		SET_BIT(PORTD,5);
-		
 		u8 key=0;
 		u8 j=0;
 		LCD_SendXY(4,7);
