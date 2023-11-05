@@ -1,9 +1,3 @@
-/*
- * DOORLOCK_Cfg.h
- *
- * Created: 11/5/2023 9:29:56 AM
- *  Author: Softlaptop
- */ 
 
 
 #ifndef DOORLOCK_CFG_H_
@@ -14,6 +8,9 @@
 #define sizePass 5
 #define BUZZ PINC6
 #define RED_LED PINB7
+
+#define PASS_ADDRESS (0X50+8)
+#define DEFAULT_PASS_ADDRESS (0X50)
 
 
 #endif /* DOORLOCK_CFG_H_ */
