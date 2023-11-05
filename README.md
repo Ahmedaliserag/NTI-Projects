@@ -1,5 +1,6 @@
 # NTI-Projects
 /* project automated door lock control*/
+
 (used 1-AVR atmega32 2-Lcd 20x4 3-servo motor sg-90 4-keypad 4x4 5-red led 6-buzzer 7-external epprom )
 Features:
 1-defualt pass with first start 00000
