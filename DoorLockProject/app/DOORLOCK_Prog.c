@@ -1,19 +1,22 @@
 /*services */
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"
+#include "MemMap.h"
 #define F_CPU 16000000
 #include <util/delay.h>
 /*MCAL */
-#include "DIO.h"
 #include "Port.h"
+#include "TMR1_interface.h"
 /*HAL */
 #include "EPPROM_Interface.h"
 #include "LCD_Int.h"
 #include "KEYPAD_Interface.h"
 #include "SRVM_interface.h"
+/*APP*/
 #include "DOORLOCK_Cfg.h"
 #include "DOORLOCK_Interface.h"
-#include "TMR1_interface.h"
+
+
 /* Array password*/
 u8 passwordArray[5]={0,0,0,0,0}; // default pass for first intialization on epprom
 	
@@ -85,8 +88,9 @@ u8 passwordArray[5]={0,0,0,0,0}; // default pass for first intialization on eppr
 				LCD_SendNumber(Attempts);
 				LCD_SendString("Attempts");
 				_delay_ms(500);
+				
 				/* alarm on after 3 wrong pass */
-				if (Attempts==0) //after third wrong pass
+				if (Attempts==0) 
 				{
 					LCD_Clear();
 					/* to reset system after 5 min here is 2500 ms */
@@ -118,25 +122,30 @@ u8 passwordArray[5]={0,0,0,0,0}; // default pass for first intialization on eppr
 		LCD_Clear();
 		LCD_SendXY(1,0);
 		LCD_SendString("Enter Your OldPass");
+		/*take old pass from user */
 		DOORLOCKER_SetPass(passTest);
+		/*compare old pass with pass */
 		flag=DOORLOCKER_ComparePassword (passTest);
-		if (flag==1)
+		if (flag==1)//when old pass is wrong
 		{
+			/* tell him wrong pass and reset system and go to enter pass screen again */
 			LCD_Clear();
 			LCD_SendXY(2,3);
 			LCD_SendString("Wrong oldPass!");
 			_delay_ms(500);
 		}
-		else if (flag==0)
+		else if (flag==0)//when old pass is right
 		{
 			LCD_Clear();
 			LCD_SendXY(1,0);
 			LCD_SendString("Enter Your NewPass");
+			/*take new pass*/
 			DOORLOCKER_SetPass(passwordArray);
 			LCD_Clear();
 			LCD_SendXY(2,3);
 			LCD_SendString("Pass Changed");
 			_delay_ms(500);
+			/* set new pass on epprom*/
 			EPPROM_WritePage(0x50,passwordArray,sizePass);
 		}
 		
@@ -153,13 +162,14 @@ u8 passwordArray[5]={0,0,0,0,0}; // default pass for first intialization on eppr
 	}
 	u8 DOORLOCKER_SetPass (u8*passArr)
 	{
+		
 		u8 key=0;
 		u8 j=0;
 		LCD_SendXY(3,7);
 		while (j<sizePass)
 		{
 			key=KEYPAD_GetKey();
-			if (key=='=') // to change pass
+			if (key=='+') // to change pass
 			{
 				return 1;
 			}
@@ -174,7 +184,7 @@ u8 passwordArray[5]={0,0,0,0,0}; // default pass for first intialization on eppr
 			}
 		}
 
-		while (KEYPAD_GetKey()!='C');//busy wait to enter
+		while (KEYPAD_GetKey()!='C');//busy wait to enter C 
 		return 0;
 	}
 	u8 DOORLOCKER_ComparePassword (u8*passTest)
@@ -184,9 +194,9 @@ u8 passwordArray[5]={0,0,0,0,0}; // default pass for first intialization on eppr
 		{
 			if(passwordArray[j]!=passTest[j])
 			{
-				flag=1;
+				flag=1; //when pass is not matched 
 				return flag;
 			}
 		}
-		return flag;
+		return flag; //pass is matched
 	}

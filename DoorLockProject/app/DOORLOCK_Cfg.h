@@ -12,7 +12,7 @@
 
 /* config */
 #define sizePass 5
-#define BUZZ PINC7
+#define BUZZ PINC6
 #define RED_LED PINB7
 
 
