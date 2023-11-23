@@ -62,7 +62,7 @@ void Scheduler (void)
 					}
 				}	
 		}
-		local_counter++;
     }
+	local_counter++;
 }
 
