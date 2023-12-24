@@ -1,0 +1,1085 @@
+Archive member included because of file (symbol)
+
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                              ./HAL/UltraSonic/UltraSonic.o (__udivmodhi4)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+                              ./MCAL/TMR1/TMR1.o (__udivmodsi4)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                              e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o (exit)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                              ./SERVICES/OS/OS.o (__do_clear_bss)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+                              ./MCAL/TMR1/TMR1.o (__fixunssfsi)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                              ./MCAL/TMR1/TMR1.o (__subsf3)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                              ./MCAL/TMR1/TMR1.o (__mulsf3)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+                              ./MCAL/TMR1/TMR1.o (__divsf3)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+                              ./HAL/UltraSonic/UltraSonic.o (__gtsf2)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+                              e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o) (__gesf2)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+                              ./HAL/UltraSonic/UltraSonic.o (__ltsf2)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+                              ./MCAL/TMR1/TMR1.o (__lesf2)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                              ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o (__floatsisf)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                              e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+                              e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__thenan_sf)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+                              ./MCAL/TMR1/TMR1.o (__floatunsisf)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+                              e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+                              e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                              e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o) (__clzsi2)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                              e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__pack_f)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                              e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o) (__unpack_f)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                              e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+                              e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+buffer              0xe               ./HAL/MCP/CANTX_prog.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+LOAD ./SERVICES/OS/OS.o
+LOAD ./SERVICES/OS/OS_Config.o
+LOAD ./SERVICES/OS/Tasks.o
+LOAD ./MCAL/TMR1/TMR1.o
+LOAD ./MCAL/TMR0/TMR0.o
+LOAD ./MCAL/SPI/SPI.o
+LOAD ./MCAL/PORT/Port.o
+LOAD ./MCAL/PORT/Port_Cfg.o
+LOAD ./MCAL/DIO/DIO.o
+LOAD ./HAL/UltraSonic/UltraSonic.o
+LOAD ./HAL/Sensor/Sensor.o
+LOAD ./HAL/MCP/CANTX_prog.o
+LOAD ./APP_LAYER/Lane_Keep/Lane_Keep.o
+LOAD ./APP_LAYER/Emer_Break/Emer_Break.o
+LOAD ./APP_LAYER/Distance_ReadStart/Distance_ReadStart.o
+LOAD ./APP_LAYER/CAN_Communication/CAN_COMM.o
+LOAD ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+LOAD ./main.o
+LOAD e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+LOAD e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a
+LOAD e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x39dc
+ *(.vectors)
+ .vectors       0x00000000       0x8c e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x0000008c                . = ALIGN (0x2)
+                0x0000008c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000008c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000008c                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000008c                __ctors_start = .
+ *(.ctors)
+                0x0000008c                __ctors_end = .
+                0x0000008c                __dtors_start = .
+ *(.dtors)
+                0x0000008c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000008c        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x0000008c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000008c        0xc e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000098       0x1a e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000098                __do_copy_data
+ .init4         0x000000b2       0x10 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x000000b2                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000c2        0x8 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init9)
+ *(.text)
+ .text          0x000000ca        0x4 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x000000ca                __vector_22
+                0x000000ca                __vector_28
+                0x000000ca                __vector_1
+                0x000000ca                __vector_32
+                0x000000ca                __vector_34
+                0x000000ca                __vector_24
+                0x000000ca                __bad_interrupt
+                0x000000ca                __vector_6
+                0x000000ca                __vector_31
+                0x000000ca                __vector_3
+                0x000000ca                __vector_23
+                0x000000ca                __vector_30
+                0x000000ca                __vector_25
+                0x000000ca                __vector_19
+                0x000000ca                __vector_7
+                0x000000ca                __vector_27
+                0x000000ca                __vector_5
+                0x000000ca                __vector_33
+                0x000000ca                __vector_4
+                0x000000ca                __vector_9
+                0x000000ca                __vector_2
+                0x000000ca                __vector_21
+                0x000000ca                __vector_29
+                0x000000ca                __vector_8
+                0x000000ca                __vector_26
+                0x000000ca                __vector_10
+                0x000000ca                __vector_18
+                0x000000ca                __vector_20
+ .text          0x000000ce        0x0 ./SERVICES/OS/OS.o
+ .text          0x000000ce        0x0 ./SERVICES/OS/OS_Config.o
+ .text          0x000000ce        0x0 ./SERVICES/OS/Tasks.o
+ .text          0x000000ce        0x0 ./MCAL/TMR1/TMR1.o
+ .text          0x000000ce        0x0 ./MCAL/TMR0/TMR0.o
+ .text          0x000000ce        0x0 ./MCAL/SPI/SPI.o
+ .text          0x000000ce        0x0 ./MCAL/PORT/Port.o
+ .text          0x000000ce        0x0 ./MCAL/PORT/Port_Cfg.o
+ .text          0x000000ce        0x0 ./MCAL/DIO/DIO.o
+ .text          0x000000ce        0x0 ./HAL/UltraSonic/UltraSonic.o
+ .text          0x000000ce        0x0 ./HAL/Sensor/Sensor.o
+ .text          0x000000ce        0x0 ./HAL/MCP/CANTX_prog.o
+ .text          0x000000ce        0x0 ./APP_LAYER/Lane_Keep/Lane_Keep.o
+ .text          0x000000ce        0x0 ./APP_LAYER/Emer_Break/Emer_Break.o
+ .text          0x000000ce        0x0 ./APP_LAYER/Distance_ReadStart/Distance_ReadStart.o
+ .text          0x000000ce        0x0 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+ .text          0x000000ce        0x0 ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+ .text          0x000000ce        0x0 ./main.o
+ .text          0x000000ce        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x000000ce        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x000000ce        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text          0x000000ce        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text          0x000000ce       0x58 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+                0x000000ce                __fixunssfsi
+ .text          0x00000126      0x354 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                0x000003be                __subsf3
+                0x00000420                __addsf3
+ .text          0x0000047a      0x1f4 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                0x0000047a                __mulsf3
+ .text          0x0000066e      0x158 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+                0x0000066e                __divsf3
+ .text          0x000007c6       0x60 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+                0x000007c6                __gtsf2
+ .text          0x00000826       0x60 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+                0x00000826                __gesf2
+ .text          0x00000886       0x60 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+                0x00000886                __ltsf2
+ .text          0x000008e6       0x60 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+                0x000008e6                __lesf2
+ .text          0x00000946       0xbc e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                0x00000946                __floatsisf
+ .text          0x00000a02       0xa8 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                0x00000a02                __fixsfsi
+ .text          0x00000aaa        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .text          0x00000aaa       0xf2 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+                0x00000aaa                __floatunsisf
+ .text          0x00000b9c        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .text          0x00000b9c        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .text          0x00000b9c       0x9e e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                0x00000b9c                __clzsi2
+ .text          0x00000c3a      0x1aa e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                0x00000c3a                __pack_f
+ .text          0x00000de4       0xf0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                0x00000de4                __unpack_f
+ .text          0x00000ed4       0xb2 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000ed4                __fpcmp_parts_f
+ .text          0x00000f86        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+                0x00000f86                . = ALIGN (0x2)
+ *(.text.*)
+ .text.OS_TaskCreate
+                0x00000f86      0x114 ./SERVICES/OS/OS.o
+                0x00000f86                OS_TaskCreate
+ .text.OS_Task_Handler
+                0x0000109a      0x122 ./SERVICES/OS/OS.o
+                0x0000109a                OS_Task_Handler
+ .text.OS_TaskExecution
+                0x000011bc       0x8a ./SERVICES/OS/OS.o
+                0x000011bc                OS_TaskExecution
+ .text.Task_LaneKeep_40mS
+                0x00001246       0x12 ./SERVICES/OS/Tasks.o
+                0x00001246                Task_LaneKeep_40mS
+ .text.Task_DistanceReadStart_80mS
+                0x00001258       0x12 ./SERVICES/OS/Tasks.o
+                0x00001258                Task_DistanceReadStart_80mS
+ .text.Task_EmerBreak_100mS
+                0x0000126a       0x12 ./SERVICES/OS/Tasks.o
+                0x0000126a                Task_EmerBreak_100mS
+ .text.Task_AccCtrl_120mS
+                0x0000127c       0x12 ./SERVICES/OS/Tasks.o
+                0x0000127c                Task_AccCtrl_120mS
+ .text.Task_COM_20ms
+                0x0000128e       0x12 ./SERVICES/OS/Tasks.o
+                0x0000128e                Task_COM_20ms
+ .text.TMR1_Init
+                0x000012a0      0x1aa ./MCAL/TMR1/TMR1.o
+                0x000012a0                TMR1_Init
+ .text.TMR1_Init1_OCRA1Mode
+                0x0000144a       0x72 ./MCAL/TMR1/TMR1.o
+                0x0000144a                TMR1_Init1_OCRA1Mode
+ .text.TMR1_OCRB1Mode
+                0x000014bc       0x72 ./MCAL/TMR1/TMR1.o
+                0x000014bc                TMR1_OCRB1Mode
+ .text.TMR1_SetCompareMatchValueA
+                0x0000152e       0x24 ./MCAL/TMR1/TMR1.o
+                0x0000152e                TMR1_SetCompareMatchValueA
+ .text.TMR1_Stop
+                0x00001552       0x38 ./MCAL/TMR1/TMR1.o
+                0x00001552                TMR1_Stop
+ .text.PWM_Freq_HZ
+                0x0000158a       0x4a ./MCAL/TMR1/TMR1.o
+                0x0000158a                PWM_Freq_HZ
+ .text.PWM_Duty_NonInverting
+                0x000015d4      0x120 ./MCAL/TMR1/TMR1.o
+                0x000015d4                PWM_Duty_NonInverting
+ .text.PWM_Duty_Inverting
+                0x000016f4      0x12c ./MCAL/TMR1/TMR1.o
+                0x000016f4                PWM_Duty_Inverting
+ .text.Timer1_InputCaptureEdge
+                0x00001820       0x3e ./MCAL/TMR1/TMR1.o
+                0x00001820                Timer1_InputCaptureEdge
+ .text.Timer1_ICU_InterruptEnable
+                0x0000185e       0x1c ./MCAL/TMR1/TMR1.o
+                0x0000185e                Timer1_ICU_InterruptEnable
+ .text.Timer1_ICU_InterruptDisable
+                0x0000187a       0x1c ./MCAL/TMR1/TMR1.o
+                0x0000187a                Timer1_ICU_InterruptDisable
+ .text.Timer1_OVF_InterruptEnable
+                0x00001896       0x1c ./MCAL/TMR1/TMR1.o
+                0x00001896                Timer1_OVF_InterruptEnable
+ .text.Timer1_OVF_InterruptDisable
+                0x000018b2       0x1c ./MCAL/TMR1/TMR1.o
+                0x000018b2                Timer1_OVF_InterruptDisable
+ .text.Timer1_OCA_InterruptEnable
+                0x000018ce       0x1c ./MCAL/TMR1/TMR1.o
+                0x000018ce                Timer1_OCA_InterruptEnable
+ .text.Timer1_OCA_InterruptDisable
+                0x000018ea       0x1c ./MCAL/TMR1/TMR1.o
+                0x000018ea                Timer1_OCA_InterruptDisable
+ .text.Timer1_OCB_InterruptEnable
+                0x00001906       0x1c ./MCAL/TMR1/TMR1.o
+                0x00001906                Timer1_OCB_InterruptEnable
+ .text.Timer1_OCB_InterruptDisable
+                0x00001922       0x1c ./MCAL/TMR1/TMR1.o
+                0x00001922                Timer1_OCB_InterruptDisable
+ .text.Timer1_OVF_SetCallBack
+                0x0000193e       0x24 ./MCAL/TMR1/TMR1.o
+                0x0000193e                Timer1_OVF_SetCallBack
+ .text.Timer1_OCA_SetCallBack
+                0x00001962       0x24 ./MCAL/TMR1/TMR1.o
+                0x00001962                Timer1_OCA_SetCallBack
+ .text.Timer1_OCB_SetCallBack
+                0x00001986       0x24 ./MCAL/TMR1/TMR1.o
+                0x00001986                Timer1_OCB_SetCallBack
+ .text.Timer1_ICU_SetCallBack
+                0x000019aa       0x24 ./MCAL/TMR1/TMR1.o
+                0x000019aa                Timer1_ICU_SetCallBack
+ .text.__vector_14
+                0x000019ce       0x72 ./MCAL/TMR1/TMR1.o
+                0x000019ce                __vector_14
+ .text.__vector_12
+                0x00001a40       0x72 ./MCAL/TMR1/TMR1.o
+                0x00001a40                __vector_12
+ .text.__vector_13
+                0x00001ab2       0x72 ./MCAL/TMR1/TMR1.o
+                0x00001ab2                __vector_13
+ .text.__vector_11
+                0x00001b24       0x72 ./MCAL/TMR1/TMR1.o
+                0x00001b24                __vector_11
+ .text.TIMER0_Init
+                0x00001b96       0xf6 ./MCAL/TMR0/TMR0.o
+                0x00001b96                TIMER0_Init
+ .text.TIMER0_SetStartTime
+                0x00001c8c       0x1c ./MCAL/TMR0/TMR0.o
+                0x00001c8c                TIMER0_SetStartTime
+ .text.TIMER0_OC0Mode
+                0x00001ca8       0xce ./MCAL/TMR0/TMR0.o
+                0x00001ca8                TIMER0_OC0Mode
+ .text.TIMER0_OVF_Enable
+                0x00001d76       0x1c ./MCAL/TMR0/TMR0.o
+                0x00001d76                TIMER0_OVF_Enable
+ .text.TIMER0_OVF_Disable
+                0x00001d92       0x1c ./MCAL/TMR0/TMR0.o
+                0x00001d92                TIMER0_OVF_Disable
+ .text.TIMER0_OC_Enable
+                0x00001dae       0x1c ./MCAL/TMR0/TMR0.o
+                0x00001dae                TIMER0_OC_Enable
+ .text.TIMER0_OC_Disable
+                0x00001dca       0x1c ./MCAL/TMR0/TMR0.o
+                0x00001dca                TIMER0_OC_Disable
+ .text.TIMER0_OVF_SetCallBack
+                0x00001de6       0x24 ./MCAL/TMR0/TMR0.o
+                0x00001de6                TIMER0_OVF_SetCallBack
+ .text.TIMER0_OC_SetCallBack
+                0x00001e0a       0x24 ./MCAL/TMR0/TMR0.o
+                0x00001e0a                TIMER0_OC_SetCallBack
+ .text.__vector_16
+                0x00001e2e       0x7a ./MCAL/TMR0/TMR0.o
+                0x00001e2e                __vector_16
+ .text.__vector_15
+                0x00001ea8       0x72 ./MCAL/TMR0/TMR0.o
+                0x00001ea8                __vector_15
+ .text.SPI_MasterCan_Init
+                0x00001f1a       0x66 ./MCAL/SPI/SPI.o
+                0x00001f1a                SPI_MasterCan_Init
+ .text.SPI_SlaveCan_Init
+                0x00001f80       0x5e ./MCAL/SPI/SPI.o
+                0x00001f80                SPI_SlaveCan_Init
+ .text.SPI_MasterTransmit
+                0x00001fde       0x36 ./MCAL/SPI/SPI.o
+                0x00001fde                SPI_MasterTransmit
+ .text.SPI_Init
+                0x00002014       0x5e ./MCAL/SPI/SPI.o
+                0x00002014                SPI_Init
+ .text.SPI_voidTransmateASYNC
+                0x00002072       0x52 ./MCAL/SPI/SPI.o
+                0x00002072                SPI_voidTransmateASYNC
+ .text.SPI_Transieve
+                0x000020c4       0x4a ./MCAL/SPI/SPI.o
+                0x000020c4                SPI_Transieve
+ .text.__vector_17
+                0x0000210e       0x76 ./MCAL/SPI/SPI.o
+                0x0000210e                __vector_17
+ .text.Port_Init
+                0x00002184      0x6da ./MCAL/PORT/Port.o
+                0x00002184                Port_Init
+ .text.Dio_WriteChannel
+                0x0000285e      0x26e ./MCAL/DIO/DIO.o
+                0x0000285e                Dio_WriteChannel
+ .text.Dio_FlipChannel
+                0x00002acc      0x144 ./MCAL/DIO/DIO.o
+                0x00002acc                Dio_FlipChannel
+ .text.Dio_ReadChannel
+                0x00002c10      0x138 ./MCAL/DIO/DIO.o
+                0x00002c10                Dio_ReadChannel
+ .text.UltraSonic_GetReading
+                0x00002d48       0x16 ./HAL/UltraSonic/UltraSonic.o
+                0x00002d48                UltraSonic_GetReading
+ .text.UltraSonic_Read_Distance
+                0x00002d5e      0x1da ./HAL/UltraSonic/UltraSonic.o
+                0x00002d5e                UltraSonic_Read_Distance
+ .text.Func_ICU2
+                0x00002f38       0xb0 ./HAL/UltraSonic/UltraSonic.o
+                0x00002f38                Func_ICU2
+ .text.IR_Digital_Reading
+                0x00002fe8       0x22 ./HAL/Sensor/Sensor.o
+                0x00002fe8                IR_Digital_Reading
+ .text.MCP2515_ReadRegister
+                0x0000300a       0x3a ./HAL/MCP/CANTX_prog.o
+                0x0000300a                MCP2515_ReadRegister
+ .text.MCP2515_WriteRegister
+                0x00003044       0x36 ./HAL/MCP/CANTX_prog.o
+                0x00003044                MCP2515_WriteRegister
+ .text.MCP2515_Reset
+                0x0000307a       0x20 ./HAL/MCP/CANTX_prog.o
+                0x0000307a                MCP2515_Reset
+ .text.MCP2515_Modify
+                0x0000309a       0x42 ./HAL/MCP/CANTX_prog.o
+                0x0000309a                MCP2515_Modify
+ .text.MCP2515_SetBitTiming
+                0x000030dc       0x36 ./HAL/MCP/CANTX_prog.o
+                0x000030dc                MCP2515_SetBitTiming
+ .text.MCP2515_SetMode
+                0x00003112       0x3c ./HAL/MCP/CANTX_prog.o
+                0x00003112                MCP2515_SetMode
+ .text.MCP2515_TransmiterInit
+                0x0000314e       0x3e ./HAL/MCP/CANTX_prog.o
+                0x0000314e                MCP2515_TransmiterInit
+ .text.MCP2515_SendMessage
+                0x0000318c       0xe8 ./HAL/MCP/CANTX_prog.o
+                0x0000318c                MCP2515_SendMessage
+ .text.SPI_ChipSelect
+                0x00003274       0x2c ./HAL/MCP/CANTX_prog.o
+                0x00003274                SPI_ChipSelect
+ .text.MCP2515_SetMask
+                0x000032a0       0xe0 ./HAL/MCP/CANTX_prog.o
+                0x000032a0                MCP2515_SetMask
+ .text.MCP2515_receiverInit
+                0x00003380       0x66 ./HAL/MCP/CANTX_prog.o
+                0x00003380                MCP2515_receiverInit
+ .text.MCP2515_receiverB0
+                0x000033e6       0x5e ./HAL/MCP/CANTX_prog.o
+                0x000033e6                MCP2515_receiverB0
+ .text.Lane_Keep_Control
+                0x00003444       0x88 ./APP_LAYER/Lane_Keep/Lane_Keep.o
+                0x00003444                Lane_Keep_Control
+ .text.Emergency_Break
+                0x000034cc       0x64 ./APP_LAYER/Emer_Break/Emer_Break.o
+                0x000034cc                Emergency_Break
+ .text.Distance_ReadStart
+                0x00003530       0x12 ./APP_LAYER/Distance_ReadStart/Distance_ReadStart.o
+                0x00003530                Distance_ReadStart
+ .text.COM_handle
+                0x00003542       0x16 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+                0x00003542                COM_handle
+ .text.COM_Tx   0x00003558       0xa2 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+                0x00003558                COM_Tx
+ .text.COM_Rx   0x000035fa       0x80 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+                0x000035fa                COM_Rx
+ .text.ACC_voidUpdateSpeed
+                0x0000367a      0x192 ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+                0x0000367a                ACC_voidUpdateSpeed
+ .text.vMillisIncrement
+                0x0000380c       0x3a ./main.o
+                0x0000380c                vMillisIncrement
+ .text.vInitEcu
+                0x00003846       0x44 ./main.o
+                0x00003846                vInitEcu
+ .text.InitScheduler
+                0x0000388a       0x5e ./main.o
+                0x0000388a                InitScheduler
+ .text.main     0x000038e8       0x16 ./main.o
+                0x000038e8                main
+ .text.libgcc   0x000038fe       0x28 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                0x000038fe                __udivmodhi4
+ .text.libgcc   0x00003926       0x44 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+                0x00003926                __udivmodsi4
+ .text.libgcc   0x0000396a        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x0000396a        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000396a       0x38 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+                0x0000396a                __prologue_saves__
+ .text.libgcc   0x000039a2       0x36 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+                0x000039a2                __epilogue_restores__
+                0x000039d8                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000039d8        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                0x000039d8                exit
+                0x000039d8                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000039d8        0x4 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000039dc                _etext = .
+
+.data           0x00800100      0x188 load address 0x000039dc
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .data          0x00800100        0x0 ./SERVICES/OS/OS.o
+ .data          0x00800100        0x0 ./SERVICES/OS/OS_Config.o
+ .data          0x00800100        0x0 ./SERVICES/OS/Tasks.o
+ .data          0x00800100        0x0 ./MCAL/TMR1/TMR1.o
+ .data          0x00800100        0x0 ./MCAL/TMR0/TMR0.o
+ .data          0x00800100        0x0 ./MCAL/SPI/SPI.o
+ .data          0x00800100        0x0 ./MCAL/PORT/Port.o
+ .data          0x00800100        0x0 ./MCAL/PORT/Port_Cfg.o
+ .data          0x00800100        0x0 ./MCAL/DIO/DIO.o
+ .data          0x00800100        0x0 ./HAL/UltraSonic/UltraSonic.o
+ .data          0x00800100        0x0 ./HAL/Sensor/Sensor.o
+ .data          0x00800100        0x0 ./HAL/MCP/CANTX_prog.o
+ .data          0x00800100        0x0 ./APP_LAYER/Lane_Keep/Lane_Keep.o
+ .data          0x00800100        0x0 ./APP_LAYER/Emer_Break/Emer_Break.o
+ .data          0x00800100        0x0 ./APP_LAYER/Distance_ReadStart/Distance_ReadStart.o
+ .data          0x00800100        0x0 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+ .data          0x00800100        0x0 ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+ .data          0x00800100        0x0 ./main.o
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .data          0x00800100        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .data          0x00800100        0x8 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+                0x00800100                __thenan_sf
+ .data          0x00800108        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .data          0x00800108        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .data          0x00800108        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .data          0x00800108        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .data          0x00800108        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .data          0x00800108        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .data          0x00800108        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800108      0x100 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+                0x00800108                __clz_tab
+ *(.data*)
+ .data.PinCfgs  0x00800208       0x78 ./MCAL/PORT/Port_Cfg.o
+                0x00800208                PinCfgs
+ .data.Direction
+                0x00800280        0x1 ./APP_LAYER/Lane_Keep/Lane_Keep.o
+                0x00800280                Direction
+ .data.private_u16SetDistance
+                0x00800281        0x2 ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+                0x00800281                private_u16SetDistance
+ .data.private_f32Kp
+                0x00800283        0x4 ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+                0x00800283                private_f32Kp
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800288                . = ALIGN (0x2)
+ *fill*         0x00800287        0x1 00
+                0x00800288                _edata = .
+                0x00800288                PROVIDE (__data_end, .)
+
+.bss            0x00800288       0x58
+                0x00800288                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .bss           0x00800288        0x0 ./SERVICES/OS/OS.o
+ .bss           0x00800288        0x0 ./SERVICES/OS/OS_Config.o
+ .bss           0x00800288        0x0 ./SERVICES/OS/Tasks.o
+ .bss           0x00800288        0x0 ./MCAL/TMR1/TMR1.o
+ .bss           0x00800288        0x0 ./MCAL/TMR0/TMR0.o
+ .bss           0x00800288        0x0 ./MCAL/SPI/SPI.o
+ .bss           0x00800288        0x0 ./MCAL/PORT/Port.o
+ .bss           0x00800288        0x0 ./MCAL/PORT/Port_Cfg.o
+ .bss           0x00800288        0x0 ./MCAL/DIO/DIO.o
+ .bss           0x00800288        0x0 ./HAL/UltraSonic/UltraSonic.o
+ .bss           0x00800288        0x0 ./HAL/Sensor/Sensor.o
+ .bss           0x00800288        0x0 ./HAL/MCP/CANTX_prog.o
+ .bss           0x00800288        0x0 ./APP_LAYER/Lane_Keep/Lane_Keep.o
+ .bss           0x00800288        0x0 ./APP_LAYER/Emer_Break/Emer_Break.o
+ .bss           0x00800288        0x0 ./APP_LAYER/Distance_ReadStart/Distance_ReadStart.o
+ .bss           0x00800288        0x0 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+ .bss           0x00800288        0x0 ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+ .bss           0x00800288        0x0 ./main.o
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_prologue.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_epilogue.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00800288        0x0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+ *(.bss*)
+ .bss.taskCounter
+                0x00800288        0x1 ./SERVICES/OS/OS.o
+ .bss.taskArray
+                0x00800289       0x1e ./SERVICES/OS/OS.o
+ .bss.Timer1_OVF_Fptr
+                0x008002a7        0x2 ./MCAL/TMR1/TMR1.o
+ .bss.Timer1_OCA_Fptr
+                0x008002a9        0x2 ./MCAL/TMR1/TMR1.o
+ .bss.Timer1_OCB_Fptr
+                0x008002ab        0x2 ./MCAL/TMR1/TMR1.o
+ .bss.Timer1_ICU_Fptr
+                0x008002ad        0x2 ./MCAL/TMR1/TMR1.o
+ .bss.Timer0_OVF_Fptr
+                0x008002af        0x2 ./MCAL/TMR0/TMR0.o
+ .bss.Timer0_OC_Fptr
+                0x008002b1        0x2 ./MCAL/TMR0/TMR0.o
+ .bss.Global_Ptf
+                0x008002b3        0x2 ./MCAL/SPI/SPI.o
+ .bss.SPI_GlOBAL_DATA
+                0x008002b5        0x2 ./MCAL/SPI/SPI.o
+ .bss.F_Distance
+                0x008002b7        0x2 ./HAL/UltraSonic/UltraSonic.o
+                0x008002b7                F_Distance
+ .bss.flag      0x008002b9        0x2 ./HAL/UltraSonic/UltraSonic.o
+ .bss.t1        0x008002bb        0x2 ./HAL/UltraSonic/UltraSonic.o
+ .bss.t2        0x008002bd        0x2 ./HAL/UltraSonic/UltraSonic.o
+ .bss.Accedent_Flag
+                0x008002bf        0x1 ./APP_LAYER/Emer_Break/Emer_Break.o
+                0x008002bf                Accedent_Flag
+ .bss.Emergency_Flag
+                0x008002c0        0x1 ./APP_LAYER/Emer_Break/Emer_Break.o
+                0x008002c0                Emergency_Flag
+ .bss.msgReq_1  0x008002c1        0x1 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+                0x008002c1                msgReq_1
+ .bss.msgReq_2  0x008002c2        0x1 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+                0x008002c2                msgReq_2
+ .bss.msgReq_3  0x008002c3        0x1 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+                0x008002c3                msgReq_3
+ .bss.Acc_flag  0x008002c4        0x1 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+                0x008002c4                Acc_flag
+ .bss.Lane_Keep_flag
+                0x008002c5        0x1 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+                0x008002c5                Lane_Keep_flag
+ .bss.SetSpeed  0x008002c6        0x1 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+                0x008002c6                SetSpeed
+ .bss.SpeedToApply
+                0x008002c7        0x1 ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+                0x008002c7                SpeedToApply
+ .bss.private_ReadDistance
+                0x008002c8        0x2 ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+                0x008002c8                private_ReadDistance
+ .bss.private_f32SpeedToApply
+                0x008002ca        0x4 ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+                0x008002ca                private_f32SpeedToApply
+ .bss.private_s16Error
+                0x008002ce        0x2 ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+                0x008002ce                private_s16Error
+ .bss.u16_MillisCounter.1469
+                0x008002d0        0x2 ./main.o
+ *(COMMON)
+ COMMON         0x008002d2        0xe ./HAL/MCP/CANTX_prog.o
+                0x008002d2                buffer
+                0x008002e0                PROVIDE (__bss_end, .)
+                0x000039dc                __data_load_start = LOADADDR (.data)
+                0x00003b64                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008002e0        0x0
+                0x008002e0                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008002e0                PROVIDE (__noinit_end, .)
+                0x008002e0                _end = .
+                0x008002e0                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x4d64
+ *(.stab)
+ .stab          0x00000000      0x420 ./SERVICES/OS/OS.o
+ .stab          0x00000420       0xd8 ./SERVICES/OS/OS_Config.o
+                                 0xe4 (size before relaxing)
+ .stab          0x000004f8      0x294 ./SERVICES/OS/Tasks.o
+                                0x2a0 (size before relaxing)
+ .stab          0x0000078c      0x978 ./MCAL/TMR1/TMR1.o
+                                0x984 (size before relaxing)
+ .stab          0x00001104      0x534 ./MCAL/TMR0/TMR0.o
+                                0x540 (size before relaxing)
+ .stab          0x00001638      0x5b8 ./MCAL/SPI/SPI.o
+                                0x5c4 (size before relaxing)
+ .stab          0x00001bf0      0x444 ./MCAL/PORT/Port.o
+                                0x450 (size before relaxing)
+ .stab          0x00002034      0x180 ./MCAL/PORT/Port_Cfg.o
+                                0x18c (size before relaxing)
+ .stab          0x000021b4      0x4f8 ./MCAL/DIO/DIO.o
+                                0x504 (size before relaxing)
+ .stab          0x000026ac      0x72c ./HAL/UltraSonic/UltraSonic.o
+                                0x738 (size before relaxing)
+ .stab          0x00002dd8      0x2a0 ./HAL/Sensor/Sensor.o
+                                0x2ac (size before relaxing)
+ .stab          0x00003078      0x8dc ./HAL/MCP/CANTX_prog.o
+                                0x8e8 (size before relaxing)
+ .stab          0x00003954      0x300 ./APP_LAYER/Lane_Keep/Lane_Keep.o
+                                0x30c (size before relaxing)
+ .stab          0x00003c54      0x2e8 ./APP_LAYER/Emer_Break/Emer_Break.o
+                                0x2f4 (size before relaxing)
+ .stab          0x00003f3c      0x258 ./APP_LAYER/Distance_ReadStart/Distance_ReadStart.o
+                                0x264 (size before relaxing)
+ .stab          0x00004194      0x4b0 ./APP_LAYER/CAN_Communication/CAN_COMM.o
+                                0x4bc (size before relaxing)
+ .stab          0x00004644      0x318 ./APP_LAYER/ACC_Ctrl/ACC_Ctrl.o
+                                0x324 (size before relaxing)
+ .stab          0x0000495c      0x408 ./main.o
+                                0x540 (size before relaxing)
+
+.stabstr        0x00000000     0x3471
+ *(.stabstr)
+ .stabstr       0x00000000     0x3471 ./SERVICES/OS/OS.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+ .debug_aranges
+                0x00000100       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_aranges
+                0x00000120       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000140       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000160       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000180       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x000001a0       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x000001c0       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x232
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x1e e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+ .debug_pubnames
+                0x00000105       0x22 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_pubnames
+                0x00000127       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000147       0x22 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000169       0x24 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x0000018d       0x1f e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x000001ac       0x1f e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x000001cb       0x21 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000001ec       0x26 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x00000212       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x2891
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x27f e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+ .debug_info    0x000017a8      0x207 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_info    0x000019af      0x2b0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_info    0x00001c5f      0x12c e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001d8b      0x206 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x00001f91      0x117 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_info    0x000020a8      0x2df e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_info    0x00002387      0x251 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_info    0x000025d8      0x210 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x000027e8       0xa9 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1628
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x15a e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+ .debug_abbrev  0x00000be0      0x148 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_abbrev  0x00000d28      0x17f e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000ea7       0xad e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000f54      0x157 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x000010ab       0xc4 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x0000116f      0x1c0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x0000132f      0x154 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00001483      0x13b e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x000015be       0x6a e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x13de
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd       0xd3 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+ .debug_line    0x00000ab0      0x135 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_line    0x00000be5      0x109 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000cee       0x90 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000d7e      0x133 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000eb1       0xa5 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000f56      0x18a e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_line    0x000010e0      0x14b e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_line    0x0000122b      0x137 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x00001362       0x7c e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x200
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+ .debug_frame   0x00000120       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_frame   0x00000140       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000160       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000180       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_frame   0x000001a0       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_frame   0x000001c0       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000001e0       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x310
+ *(.debug_str)
+ .debug_str     0x00000000       0xc0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+                                 0xff (size before relaxing)
+ .debug_str     0x000000c0      0x14d e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+                                0x207 (size before relaxing)
+ .debug_str     0x0000020d       0x27 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+                                0x1c0 (size before relaxing)
+ .debug_str     0x00000234       0x35 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+                                0x1c9 (size before relaxing)
+ .debug_str     0x00000269        0x8 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+                                0x196 (size before relaxing)
+ .debug_str     0x00000271        0x8 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+                                0x196 (size before relaxing)
+ .debug_str     0x00000279        0x8 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+                                0x196 (size before relaxing)
+ .debug_str     0x00000281        0x8 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+                                0x196 (size before relaxing)
+ .debug_str     0x00000289       0x1e e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+                                0x17c (size before relaxing)
+ .debug_str     0x000002a7        0xa e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+                                0x19f (size before relaxing)
+ .debug_str     0x00000000      0x104 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_thenan_sf.o)
+ .debug_str     0x000002b1       0x14 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+                                0x178 (size before relaxing)
+ .debug_str     0x000002c5       0x20 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+                                0x112 (size before relaxing)
+ .debug_str     0x000002e5       0x10 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x000002f5        0xb e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+                                0x180 (size before relaxing)
+ .debug_str     0x00000300       0x10 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                                0x164 (size before relaxing)
+ .debug_str     0x00000000       0xf5 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0xa56
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0x3c e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_le_sf.o)
+ .debug_loc     0x00000612       0xac e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_si_to_sf.o)
+ .debug_loc     0x000006be       0x7e e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x0000073c       0x4c e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x00000788       0x94 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clzsi2.o)
+ .debug_loc     0x0000081c      0x13e e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_pack_sf.o)
+ .debug_loc     0x0000095a       0xac e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x00000a06       0x50 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(ATMega128_test.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 e:/courses/01-nti/avr tools/avr tools/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_mul_sf.o)

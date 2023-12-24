@@ -1,0 +1,812 @@
+Archive member included because of file (symbol)
+
+f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                              ./MCAL/TMR0/TMR0_Program.o (__udivmodhi4)
+f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                              f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o (exit)
+f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                              ./OS/OS.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+FristTimeOnAcc      0x1               ./APP/control/Move_Control.o
+MANIUAL_FLAG        0x1               ./APP/control/Move_Control.o
+motor_status        0x1               ./APP/control/Move_Control.o
+UART_DATA           0x1               ./APP/control/Move_Control.o
+buffer              0xe               ./HAL/CANMCB/MCP2515_prog.o
+msgReq1             0x1               ./APP/control/Move_Control.o
+print_flag          0x1               ./APP/control/Move_Control.o
+LANE_KEEP_FLAG      0x1               ./APP/control/Move_Control.o
+msgReq2             0x1               ./APP/control/Move_Control.o
+ACC_FLAG            0x1               ./APP/control/Move_Control.o
+UART_FLAG           0x1               ./APP/control/Move_Control.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+LOAD ./OS/OS.o
+LOAD ./OS/OS_Config.o
+LOAD ./OS/Tasks.o
+LOAD ./MCAL/UART/UART_Init.o
+LOAD ./MCAL/TMR0/TMR0_Program.o
+LOAD ./MCAL/TIMERS/TIMERS_Prog.o
+LOAD ./MCAL/SPI/SPI_Prog.o
+LOAD ./MCAL/PORT/Port.o
+LOAD ./MCAL/PORT/Port_Cfg.o
+LOAD ./MCAL/GI/GI_Program.o
+LOAD ./MCAL/DIO/DIO.o
+LOAD ./HAL/MotorDriver/Motor.o
+LOAD ./HAL/CANMCB/MCP2515_prog.o
+LOAD ./APP/control/Move_Control.o
+LOAD ./main.o
+LOAD f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+LOAD f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a
+LOAD f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2c44
+ *(.vectors)
+ .vectors       0x00000000       0x8c f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x0000008c                . = ALIGN (0x2)
+                0x0000008c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000008c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000008c                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000008c                __ctors_start = .
+ *(.ctors)
+                0x0000008c                __ctors_end = .
+                0x0000008c                __dtors_start = .
+ *(.dtors)
+                0x0000008c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000008c        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x0000008c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000008c        0xc f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000098       0x1a f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x00000098                __do_copy_data
+ .init4         0x000000b2       0x10 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x000000b2                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000c2        0x8 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ *(.init9)
+ *(.text)
+ .text          0x000000ca        0x4 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+                0x000000ca                __vector_22
+                0x000000ca                __vector_28
+                0x000000ca                __vector_1
+                0x000000ca                __vector_32
+                0x000000ca                __vector_34
+                0x000000ca                __vector_24
+                0x000000ca                __bad_interrupt
+                0x000000ca                __vector_6
+                0x000000ca                __vector_31
+                0x000000ca                __vector_3
+                0x000000ca                __vector_23
+                0x000000ca                __vector_30
+                0x000000ca                __vector_25
+                0x000000ca                __vector_11
+                0x000000ca                __vector_19
+                0x000000ca                __vector_7
+                0x000000ca                __vector_27
+                0x000000ca                __vector_5
+                0x000000ca                __vector_33
+                0x000000ca                __vector_4
+                0x000000ca                __vector_9
+                0x000000ca                __vector_2
+                0x000000ca                __vector_21
+                0x000000ca                __vector_15
+                0x000000ca                __vector_29
+                0x000000ca                __vector_8
+                0x000000ca                __vector_26
+                0x000000ca                __vector_10
+                0x000000ca                __vector_16
+ .text          0x000000ce        0x0 ./OS/OS.o
+ .text          0x000000ce        0x0 ./OS/OS_Config.o
+ .text          0x000000ce        0x0 ./OS/Tasks.o
+ .text          0x000000ce        0x0 ./MCAL/UART/UART_Init.o
+ .text          0x000000ce        0x0 ./MCAL/TMR0/TMR0_Program.o
+ .text          0x000000ce        0x0 ./MCAL/TIMERS/TIMERS_Prog.o
+ .text          0x000000ce        0x0 ./MCAL/SPI/SPI_Prog.o
+ .text          0x000000ce        0x0 ./MCAL/PORT/Port.o
+ .text          0x000000ce        0x0 ./MCAL/PORT/Port_Cfg.o
+ .text          0x000000ce        0x0 ./MCAL/GI/GI_Program.o
+ .text          0x000000ce        0x0 ./MCAL/DIO/DIO.o
+ .text          0x000000ce        0x0 ./HAL/MotorDriver/Motor.o
+ .text          0x000000ce        0x0 ./HAL/CANMCB/MCP2515_prog.o
+ .text          0x000000ce        0x0 ./APP/control/Move_Control.o
+ .text          0x000000ce        0x0 ./main.o
+ .text          0x000000ce        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x000000ce        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text          0x000000ce        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x000000ce                . = ALIGN (0x2)
+ *(.text.*)
+ .text.OS_TaskCreate
+                0x000000ce      0x112 ./OS/OS.o
+                0x000000ce                OS_TaskCreate
+ .text.OS_Task_Handler
+                0x000001e0      0x122 ./OS/OS.o
+                0x000001e0                OS_Task_Handler
+ .text.OS_TaskExecution
+                0x00000302       0x8a ./OS/OS.o
+                0x00000302                OS_TaskExecution
+ .text.Task_UART_Get_20mS
+                0x0000038c       0x12 ./OS/Tasks.o
+                0x0000038c                Task_UART_Get_20mS
+ .text.Task_MOTOR_GetSpeed_50mS
+                0x0000039e       0x12 ./OS/Tasks.o
+                0x0000039e                Task_MOTOR_GetSpeed_50mS
+ .text.Task_MOTOR_GetDirection_40mS
+                0x000003b0       0x12 ./OS/Tasks.o
+                0x000003b0                Task_MOTOR_GetDirection_40mS
+ .text.Task_MOTOR_COM_5mS
+                0x000003c2       0x12 ./OS/Tasks.o
+                0x000003c2                Task_MOTOR_COM_5mS
+ .text.UART_Init
+                0x000003d4       0x26 ./MCAL/UART/UART_Init.o
+                0x000003d4                UART_Init
+ .text.UART_TransmitData
+                0x000003fa       0x34 ./MCAL/UART/UART_Init.o
+                0x000003fa                UART_TransmitData
+ .text.UART_RecieveData
+                0x0000042e       0x1e ./MCAL/UART/UART_Init.o
+                0x0000042e                UART_RecieveData
+ .text.UART_Send_String
+                0x0000044c       0x52 ./MCAL/UART/UART_Init.o
+                0x0000044c                UART_Send_String
+ .text.UART_ReceiveNum
+                0x0000049e       0x20 ./MCAL/UART/UART_Init.o
+                0x0000049e                UART_ReceiveNum
+ .text.BlutouthMOdule_Init
+                0x000004be       0x12 ./MCAL/UART/UART_Init.o
+                0x000004be                BlutouthMOdule_Init
+ .text.Bluetooth_Module_Send_Data
+                0x000004d0       0x1a ./MCAL/UART/UART_Init.o
+                0x000004d0                Bluetooth_Module_Send_Data
+ .text.Bluetooth_Module_Recieve_Data
+                0x000004ea       0x22 ./MCAL/UART/UART_Init.o
+                0x000004ea                Bluetooth_Module_Recieve_Data
+ .text.Bluetooth_Module_SEND_String
+                0x0000050c       0x20 ./MCAL/UART/UART_Init.o
+                0x0000050c                Bluetooth_Module_SEND_String
+ .text.Bluetooth_Module_RECEIVE_NUM
+                0x0000052c       0x1c ./MCAL/UART/UART_Init.o
+                0x0000052c                Bluetooth_Module_RECEIVE_NUM
+ .text.Bluetooth_Module_RECEIVE_ID
+                0x00000548       0x1c ./MCAL/UART/UART_Init.o
+                0x00000548                Bluetooth_Module_RECEIVE_ID
+ .text.UART_RX_InterruptEnable
+                0x00000564       0x1c ./MCAL/UART/UART_Init.o
+                0x00000564                UART_RX_InterruptEnable
+ .text.UART_RX_InterruptDisable
+                0x00000580       0x1c ./MCAL/UART/UART_Init.o
+                0x00000580                UART_RX_InterruptDisable
+ .text.UART_TX_InterruptEnable
+                0x0000059c       0x1c ./MCAL/UART/UART_Init.o
+                0x0000059c                UART_TX_InterruptEnable
+ .text.UART_TX_InterruptDisable
+                0x000005b8       0x1c ./MCAL/UART/UART_Init.o
+                0x000005b8                UART_TX_InterruptDisable
+ .text.UART_RX_SetCallBack
+                0x000005d4       0x24 ./MCAL/UART/UART_Init.o
+                0x000005d4                UART_RX_SetCallBack
+ .text.UART_TX_SetCallBack
+                0x000005f8       0x24 ./MCAL/UART/UART_Init.o
+                0x000005f8                UART_TX_SetCallBack
+ .text.UART_SendNoBlock
+                0x0000061c       0x1c ./MCAL/UART/UART_Init.o
+                0x0000061c                UART_SendNoBlock
+ .text.UART_ReceiveNoBlock
+                0x00000638       0x14 ./MCAL/UART/UART_Init.o
+                0x00000638                UART_ReceiveNoBlock
+ .text.__vector_18
+                0x0000064c       0x72 ./MCAL/UART/UART_Init.o
+                0x0000064c                __vector_18
+ .text.__vector_20
+                0x000006be       0x72 ./MCAL/UART/UART_Init.o
+                0x000006be                __vector_20
+ .text.TMR0_Init
+                0x00000730       0x46 ./MCAL/TMR0/TMR0_Program.o
+                0x00000730                TMR0_Init
+ .text.TMR0_SetComparematchValue
+                0x00000776       0x1c ./MCAL/TMR0/TMR0_Program.o
+                0x00000776                TMR0_SetComparematchValue
+ .text.TMR0_setDelay_ms_usingCTC
+                0x00000792       0x2c ./MCAL/TMR0/TMR0_Program.o
+                0x00000792                TMR0_setDelay_ms_usingCTC
+ .text.TMR0_Start
+                0x000007be       0x38 ./MCAL/TMR0/TMR0_Program.o
+                0x000007be                TMR0_Start
+ .text.TMR0_SetDutyCycle
+                0x000007f6       0x4e ./MCAL/TMR0/TMR0_Program.o
+                0x000007f6                TMR0_SetDutyCycle
+ .text.TMR0_Stop
+                0x00000844       0x38 ./MCAL/TMR0/TMR0_Program.o
+                0x00000844                TMR0_Stop
+ .text.TMR0_SetCallBackOVF
+                0x0000087c       0x2c ./MCAL/TMR0/TMR0_Program.o
+                0x0000087c                TMR0_SetCallBackOVF
+ .text.TMR0_SetCallBackCTC
+                0x000008a8       0x2c ./MCAL/TMR0/TMR0_Program.o
+                0x000008a8                TMR0_SetCallBackCTC
+ .text.TIMER2_Init
+                0x000008d4       0xf6 ./MCAL/TIMERS/TIMERS_Prog.o
+                0x000008d4                TIMER2_Init
+ .text.TIMER2_OC2Mode
+                0x000009ca       0xce ./MCAL/TIMERS/TIMERS_Prog.o
+                0x000009ca                TIMER2_OC2Mode
+ .text.TMR2_SetDutyCycle
+                0x00000a98       0x4e ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000a98                TMR2_SetDutyCycle
+ .text.TIMER1_Init
+                0x00000ae6      0x1f8 ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000ae6                TIMER1_Init
+ .text.TIMER1_OC1AMode
+                0x00000cde       0xda ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000cde                TIMER1_OC1AMode
+ .text.TIMER1_OC1BMode
+                0x00000db8       0xce ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000db8                TIMER1_OC1BMode
+ .text.TIMER1_ICU_Edge
+                0x00000e86       0x56 ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000e86                TIMER1_ICU_Edge
+ .text.TIMER1_OVF_Enable
+                0x00000edc       0x1c ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000edc                TIMER1_OVF_Enable
+ .text.TIMER1_OVF_Disable
+                0x00000ef8       0x1c ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000ef8                TIMER1_OVF_Disable
+ .text.TIMER1_OC1A_Enable
+                0x00000f14       0x1c ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000f14                TIMER1_OC1A_Enable
+ .text.TIMER1_OC1A_Disable
+                0x00000f30       0x1c ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000f30                TIMER1_OC1A_Disable
+ .text.TIMER1_OC1B_Enable
+                0x00000f4c       0x1c ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000f4c                TIMER1_OC1B_Enable
+ .text.TIMER1_OC1B_Disable
+                0x00000f68       0x1c ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000f68                TIMER1_OC1B_Disable
+ .text.TIMER1_ICU_Enable
+                0x00000f84       0x1c ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000f84                TIMER1_ICU_Enable
+ .text.TIMER1_ICU_Disable
+                0x00000fa0       0x1c ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000fa0                TIMER1_ICU_Disable
+ .text.TIMER1_OVF_SetCallBack
+                0x00000fbc       0x24 ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000fbc                TIMER1_OVF_SetCallBack
+ .text.TIMER1_OC1A_SetCallBack
+                0x00000fe0       0x24 ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00000fe0                TIMER1_OC1A_SetCallBack
+ .text.TIMER1_OC1B_SetCallBack
+                0x00001004       0x24 ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00001004                TIMER1_OC1B_SetCallBack
+ .text.TIMER1_ICU_SetCallBack
+                0x00001028       0x24 ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00001028                TIMER1_ICU_SetCallBack
+ .text.__vector_14
+                0x0000104c       0x72 ./MCAL/TIMERS/TIMERS_Prog.o
+                0x0000104c                __vector_14
+ .text.__vector_13
+                0x000010be       0x72 ./MCAL/TIMERS/TIMERS_Prog.o
+                0x000010be                __vector_13
+ .text.__vector_12
+                0x00001130       0x72 ./MCAL/TIMERS/TIMERS_Prog.o
+                0x00001130                __vector_12
+ .text.TIMER1_SetStartTime
+                0x000011a2       0x22 ./MCAL/TIMERS/TIMERS_Prog.o
+                0x000011a2                TIMER1_SetStartTime
+ .text.SPI_MasterCan_Init
+                0x000011c4       0x5e ./MCAL/SPI/SPI_Prog.o
+                0x000011c4                SPI_MasterCan_Init
+ .text.SPI_SlaveCan_Init
+                0x00001222       0x5e ./MCAL/SPI/SPI_Prog.o
+                0x00001222                SPI_SlaveCan_Init
+ .text.SPI_MasterTransmit
+                0x00001280       0x36 ./MCAL/SPI/SPI_Prog.o
+                0x00001280                SPI_MasterTransmit
+ .text.SPI_Init
+                0x000012b6       0x5e ./MCAL/SPI/SPI_Prog.o
+                0x000012b6                SPI_Init
+ .text.SPI_voidTransmateASYNC
+                0x00001314       0x52 ./MCAL/SPI/SPI_Prog.o
+                0x00001314                SPI_voidTransmateASYNC
+ .text.SPI_Transieve
+                0x00001366       0x3a ./MCAL/SPI/SPI_Prog.o
+                0x00001366                SPI_Transieve
+ .text.__vector_17
+                0x000013a0       0x76 ./MCAL/SPI/SPI_Prog.o
+                0x000013a0                __vector_17
+ .text.Port_Init
+                0x00001416      0x714 ./MCAL/PORT/Port.o
+                0x00001416                Port_Init
+ .text.GI_Enable
+                0x00001b2a       0x1c ./MCAL/GI/GI_Program.o
+                0x00001b2a                GI_Enable
+ .text.GI_Disable
+                0x00001b46       0x1c ./MCAL/GI/GI_Program.o
+                0x00001b46                GI_Disable
+ .text.Dio_WriteChannel
+                0x00001b62      0x26e ./MCAL/DIO/DIO.o
+                0x00001b62                Dio_WriteChannel
+ .text.Dio_FlipChannel
+                0x00001dd0      0x144 ./MCAL/DIO/DIO.o
+                0x00001dd0                Dio_FlipChannel
+ .text.Dio_ReadChannel
+                0x00001f14      0x138 ./MCAL/DIO/DIO.o
+                0x00001f14                Dio_ReadChannel
+ .text.MOTOR_Forward
+                0x0000204c       0x24 ./HAL/MotorDriver/Motor.o
+                0x0000204c                MOTOR_Forward
+ .text.MOTOR_Backward
+                0x00002070       0x24 ./HAL/MotorDriver/Motor.o
+                0x00002070                MOTOR_Backward
+ .text.MOTOR_Stop
+                0x00002094       0x24 ./HAL/MotorDriver/Motor.o
+                0x00002094                MOTOR_Stop
+ .text.MOTOR_Forward_SetSpeed
+                0x000020b8       0x2a ./HAL/MotorDriver/Motor.o
+                0x000020b8                MOTOR_Forward_SetSpeed
+ .text.MOTOR_steering_Control
+                0x000020e2       0x88 ./HAL/MotorDriver/Motor.o
+                0x000020e2                MOTOR_steering_Control
+ .text.MCP2515_ReadRegister
+                0x0000216a       0x3a ./HAL/CANMCB/MCP2515_prog.o
+                0x0000216a                MCP2515_ReadRegister
+ .text.MCP2515_bufferGet
+                0x000021a4       0x4c ./HAL/CANMCB/MCP2515_prog.o
+                0x000021a4                MCP2515_bufferGet
+ .text.MCP2515_WriteRegister
+                0x000021f0       0x36 ./HAL/CANMCB/MCP2515_prog.o
+                0x000021f0                MCP2515_WriteRegister
+ .text.MCP2515_Reset
+                0x00002226       0x20 ./HAL/CANMCB/MCP2515_prog.o
+                0x00002226                MCP2515_Reset
+ .text.MCP2515_Modify
+                0x00002246       0x42 ./HAL/CANMCB/MCP2515_prog.o
+                0x00002246                MCP2515_Modify
+ .text.MCP2515_SetBitTiming
+                0x00002288       0x36 ./HAL/CANMCB/MCP2515_prog.o
+                0x00002288                MCP2515_SetBitTiming
+ .text.MCP2515_SetMode
+                0x000022be       0x3c ./HAL/CANMCB/MCP2515_prog.o
+                0x000022be                MCP2515_SetMode
+ .text.MCP2515_TransmiterInit
+                0x000022fa       0x44 ./HAL/CANMCB/MCP2515_prog.o
+                0x000022fa                MCP2515_TransmiterInit
+ .text.MCP2515_SendMessage
+                0x0000233e       0xe8 ./HAL/CANMCB/MCP2515_prog.o
+                0x0000233e                MCP2515_SendMessage
+ .text.SPI_ChipSelect
+                0x00002426       0x2c ./HAL/CANMCB/MCP2515_prog.o
+                0x00002426                SPI_ChipSelect
+ .text.MCP2515_SetMask
+                0x00002452       0xe0 ./HAL/CANMCB/MCP2515_prog.o
+                0x00002452                MCP2515_SetMask
+ .text.MCP2515_receiverInit
+                0x00002532       0x6c ./HAL/CANMCB/MCP2515_prog.o
+                0x00002532                MCP2515_receiverInit
+ .text.MCP2515_receiverB0
+                0x0000259e       0x5e ./HAL/CANMCB/MCP2515_prog.o
+                0x0000259e                MCP2515_receiverB0
+ .text.RX_Interrupt
+                0x000025fc       0x1c ./APP/control/Move_Control.o
+                0x000025fc                RX_Interrupt
+ .text.MOTOR_Init
+                0x00002618       0x52 ./APP/control/Move_Control.o
+                0x00002618                MOTOR_Init
+ .text.UART_Get
+                0x0000266a       0xa2 ./APP/control/Move_Control.o
+                0x0000266a                UART_Get
+ .text.CarDirection
+                0x0000270c       0xa2 ./APP/control/Move_Control.o
+                0x0000270c                CarDirection
+ .text.CarSpeed
+                0x000027ae      0x1ce ./APP/control/Move_Control.o
+                0x000027ae                CarSpeed
+ .text.COM_handle
+                0x0000297c       0x16 ./APP/control/Move_Control.o
+                0x0000297c                COM_handle
+ .text.COM_Tx   0x00002992      0x106 ./APP/control/Move_Control.o
+                0x00002992                COM_Tx
+ .text.COM_Rx   0x00002a98       0xb4 ./APP/control/Move_Control.o
+                0x00002a98                COM_Rx
+ .text.vMillisIncrement
+                0x00002b4c       0x3a ./main.o
+                0x00002b4c                vMillisIncrement
+ .text.vInitEcu
+                0x00002b86       0x2e ./main.o
+                0x00002b86                vInitEcu
+ .text.InitScheduler
+                0x00002bb4       0x4e ./main.o
+                0x00002bb4                InitScheduler
+ .text.main     0x00002c02       0x16 ./main.o
+                0x00002c02                main
+ .text.libgcc   0x00002c18       0x28 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+                0x00002c18                __udivmodhi4
+ .text.libgcc   0x00002c40        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00002c40        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x00002c40                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002c40        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                0x00002c40                exit
+                0x00002c40                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002c40        0x4 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002c44                _etext = .
+
+.data           0x00800100      0x17c load address 0x00002c44
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .data          0x00800100        0x0 ./OS/OS.o
+ .data          0x00800100        0x0 ./OS/OS_Config.o
+ .data          0x00800100        0x0 ./OS/Tasks.o
+ .data          0x00800100        0x0 ./MCAL/UART/UART_Init.o
+ .data          0x00800100        0x0 ./MCAL/TMR0/TMR0_Program.o
+ .data          0x00800100        0x0 ./MCAL/TIMERS/TIMERS_Prog.o
+ .data          0x00800100        0x0 ./MCAL/SPI/SPI_Prog.o
+ .data          0x00800100        0x0 ./MCAL/PORT/Port.o
+ .data          0x00800100        0x0 ./MCAL/PORT/Port_Cfg.o
+ .data          0x00800100        0x0 ./MCAL/GI/GI_Program.o
+ .data          0x00800100        0x0 ./MCAL/DIO/DIO.o
+ .data          0x00800100        0x0 ./HAL/MotorDriver/Motor.o
+ .data          0x00800100        0x0 ./HAL/CANMCB/MCP2515_prog.o
+ .data          0x00800100      0x104 ./APP/control/Move_Control.o
+ .data          0x00800204        0x0 ./main.o
+ .data          0x00800204        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00800204        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .data          0x00800204        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ *(.data*)
+ .data.PinCfgs  0x00800204       0x78 ./MCAL/PORT/Port_Cfg.o
+                0x00800204                PinCfgs
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0080027c                . = ALIGN (0x2)
+                0x0080027c                _edata = .
+                0x0080027c                PROVIDE (__data_end, .)
+
+.bss            0x0080027c       0x4e
+                0x0080027c                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080027c        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtm128.o
+ .bss           0x0080027c        0x0 ./OS/OS.o
+ .bss           0x0080027c        0x0 ./OS/OS_Config.o
+ .bss           0x0080027c        0x0 ./OS/Tasks.o
+ .bss           0x0080027c        0x0 ./MCAL/UART/UART_Init.o
+ .bss           0x0080027c        0x0 ./MCAL/TMR0/TMR0_Program.o
+ .bss           0x0080027c        0x0 ./MCAL/TIMERS/TIMERS_Prog.o
+ .bss           0x0080027c        0x0 ./MCAL/SPI/SPI_Prog.o
+ .bss           0x0080027c        0x0 ./MCAL/PORT/Port.o
+ .bss           0x0080027c        0x0 ./MCAL/PORT/Port_Cfg.o
+ .bss           0x0080027c        0x0 ./MCAL/GI/GI_Program.o
+ .bss           0x0080027c        0x0 ./MCAL/DIO/DIO.o
+ .bss           0x0080027c        0x0 ./HAL/MotorDriver/Motor.o
+ .bss           0x0080027c        0x0 ./HAL/CANMCB/MCP2515_prog.o
+ .bss           0x0080027c        0x0 ./APP/control/Move_Control.o
+ .bss           0x0080027c        0x0 ./main.o
+ .bss           0x0080027c        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x0080027c        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .bss           0x0080027c        0x0 f:/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ *(.bss*)
+ .bss.taskCounter
+                0x0080027c        0x1 ./OS/OS.o
+ .bss.taskArray
+                0x0080027d       0x18 ./OS/OS.o
+ .bss.UART_RX_Fptr
+                0x00800295        0x2 ./MCAL/UART/UART_Init.o
+ .bss.UART_TX_Fptr
+                0x00800297        0x2 ./MCAL/UART/UART_Init.o
+ .bss.private_pCallBackOVF
+                0x00800299        0x2 ./MCAL/TMR0/TMR0_Program.o
+ .bss.private_pCallBackCTC
+                0x0080029b        0x2 ./MCAL/TMR0/TMR0_Program.o
+ .bss.private_ctcCounter
+                0x0080029d        0x2 ./MCAL/TMR0/TMR0_Program.o
+ .bss.Timer1_OVF_Fptr
+                0x0080029f        0x2 ./MCAL/TIMERS/TIMERS_Prog.o
+ .bss.Timer1_OCA_Fptr
+                0x008002a1        0x2 ./MCAL/TIMERS/TIMERS_Prog.o
+ .bss.Timer1_OCB_Fptr
+                0x008002a3        0x2 ./MCAL/TIMERS/TIMERS_Prog.o
+ .bss.Timer1_ICU_Fptr
+                0x008002a5        0x2 ./MCAL/TIMERS/TIMERS_Prog.o
+ .bss.Global_Ptf
+                0x008002a7        0x2 ./MCAL/SPI/SPI_Prog.o
+ .bss.SPI_GlOBAL_DATA
+                0x008002a9        0x2 ./MCAL/SPI/SPI_Prog.o
+ .bss.flag.1573
+                0x008002ab        0x1 ./APP/control/Move_Control.o
+ .bss.speed_UART
+                0x008002ac        0x1 ./APP/control/Move_Control.o
+ .bss.default_speed
+                0x008002ad        0x1 ./APP/control/Move_Control.o
+ .bss.speed_COM
+                0x008002ae        0x1 ./APP/control/Move_Control.o
+ .bss.dir_COM   0x008002af        0x1 ./APP/control/Move_Control.o
+ .bss.u16_MillisCounter.1435
+                0x008002b0        0x2 ./main.o
+ *(COMMON)
+ COMMON         0x008002b2        0xe ./HAL/CANMCB/MCP2515_prog.o
+                0x008002b2                buffer
+ COMMON         0x008002c0        0xa ./APP/control/Move_Control.o
+                0x008002c0                FristTimeOnAcc
+                0x008002c1                MANIUAL_FLAG
+                0x008002c2                motor_status
+                0x008002c3                UART_DATA
+                0x008002c4                msgReq1
+                0x008002c5                print_flag
+                0x008002c6                LANE_KEEP_FLAG
+                0x008002c7                msgReq2
+                0x008002c8                ACC_FLAG
+                0x008002c9                UART_FLAG
+                0x008002ca                PROVIDE (__bss_end, .)
+                0x00002c44                __data_load_start = LOADADDR (.data)
+                0x00002dc0                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008002ca        0x0
+                0x008002ca                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008002ca                PROVIDE (__noinit_end, .)
+                0x008002ca                _end = .
+                0x008002ca                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x4adc
+ *(.stab)
+ .stab          0x00000000      0x420 ./OS/OS.o
+ .stab          0x00000420       0xd8 ./OS/OS_Config.o
+                                 0xe4 (size before relaxing)
+ .stab          0x000004f8      0x234 ./OS/Tasks.o
+                                0x240 (size before relaxing)
+ .stab          0x0000072c      0x6f0 ./MCAL/UART/UART_Init.o
+                                0x6fc (size before relaxing)
+ .stab          0x00000e1c      0x3c0 ./MCAL/TMR0/TMR0_Program.o
+                                0x3cc (size before relaxing)
+ .stab          0x000011dc      0xb10 ./MCAL/TIMERS/TIMERS_Prog.o
+                                0xb1c (size before relaxing)
+ .stab          0x00001cec      0x4c8 ./MCAL/SPI/SPI_Prog.o
+                                0x4d4 (size before relaxing)
+ .stab          0x000021b4      0x3fc ./MCAL/PORT/Port.o
+                                0x408 (size before relaxing)
+ .stab          0x000025b0      0x150 ./MCAL/PORT/Port_Cfg.o
+                                0x174 (size before relaxing)
+ .stab          0x00002700      0x138 ./MCAL/GI/GI_Program.o
+                                0x144 (size before relaxing)
+ .stab          0x00002838      0x504 ./MCAL/DIO/DIO.o
+                                0x510 (size before relaxing)
+ .stab          0x00002d3c      0x4e0 ./HAL/MotorDriver/Motor.o
+                                0x4ec (size before relaxing)
+ .stab          0x0000321c      0x918 ./HAL/CANMCB/MCP2515_prog.o
+                                0x924 (size before relaxing)
+ .stab          0x00003b34      0xabc ./APP/control/Move_Control.o
+                                0xac8 (size before relaxing)
+ .stab          0x000045f0      0x4ec ./main.o
+                                0x4f8 (size before relaxing)
+
+.stabstr        0x00000000     0x358e
+ *(.stabstr)
+ .stabstr       0x00000000     0x358e ./OS/OS.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(ATMega128_control.elf elf32-avr)
+LOAD linker stubs

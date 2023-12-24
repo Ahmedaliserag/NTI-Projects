@@ -1,0 +1,18 @@
+MCAL/SPI/SPI.o MCAL/SPI/SPI.o: ../MCAL/SPI/SPI.c ../MCAL/SPI/BIT_MATH.h \
+  ../MCAL/SPI/STD_TYPES.h ../MCAL/SPI/../../MCAL/DIO/DIO.h \
+  ../MCAL/SPI/../../MCAL/DIO/../../MCAL/PORT/Port.h ../MCAL/SPI/SPI_Cfg.h \
+  ../MCAL/SPI/SPI_Reg.h ../MCAL/SPI/SPI.h
+
+../MCAL/SPI/BIT_MATH.h:
+
+../MCAL/SPI/STD_TYPES.h:
+
+../MCAL/SPI/../../MCAL/DIO/DIO.h:
+
+../MCAL/SPI/../../MCAL/DIO/../../MCAL/PORT/Port.h:
+
+../MCAL/SPI/SPI_Cfg.h:
+
+../MCAL/SPI/SPI_Reg.h:
+
+../MCAL/SPI/SPI.h:
